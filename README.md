@@ -1,22 +1,150 @@
-## Hi, I'm Timothy 👋
+<!-- Banner -->
+<p align="center">
+  <img src="images/banner.png" alt="Timothy Mugisha Banner" width="100%">
+</p>
 
-I'm a Data Science & Analytics student at Uganda Christian University, building tools for African agriculture and financial inclusion. Currently working through UCU's Recess Programme — labs in networking, cybersecurity, Linux, and software development.
+<h1 align="center">Hi, I'm Timothy Mugisha 👋</h1>
 
-### 🔭 Currently working on
-- [Agri-Sense Dome](https://github.com/your-username/agrisense) — a smart agriculture advisory platform for smallholder farmers in Uganda
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Data+Science+%26+Analytics+Student;Machine+Learning+Enthusiast;Business+Intelligence+Developer;Building+Data-Driven+Solutions;Always+Learning." alt="Typing SVG">
+  </a>
+</p>
 
-### ✍️ Writing & links
-- [Medium](https://medium.com/@your-handle)
-- [LinkedIn](https://linkedin.com/in/your-handle)
+---
 
-![Timothy's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+## 👨‍💻 About Me
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Science+Student;Building+for+African+Markets;UCU+Recess+Programme)](https://git.io/typing-svg)
+I'm a **Data Science & Analytics** student at **Uganda Christian University** passionate about transforming raw data into meaningful insights.
 
-![Python](https://skillicons.dev/icons?i=py,linux,git,github,vscode)
+I enjoy building solutions in:
 
-### 📝 Latest posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- 📊 Data Analytics
+- 🤖 Machine Learning
+- 📈 Business Intelligence
+- 🧠 Artificial Intelligence
+
+My goal is to become a Machine Learning Engineer developing intelligent solutions that create measurable impact across Africa.
+
+---
+
+## 🚀 Current Focus
+
+- Building internship-ready Data Science projects
+- Developing interactive Power BI dashboards
+- Preparing for Kaggle competitions
+- Strengthening Machine Learning fundamentals
+- Sharing my learning journey through Medium and LinkedIn
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+![Python](https://skillicons.dev/icons?i=python)
+![R](https://go-skill-icons.vercel.app/api/icons?i=r)
+![SQL](https://go-skill-icons.vercel.app/api/icons?i=mysql)
+
+### Data Science
+
+![Pandas](https://go-skill-icons.vercel.app/api/icons?i=pandas)
+![Scikit](https://go-skill-icons.vercel.app/api/icons?i=sklearn)
+![Seaborn](https://go-skill-icons.vercel.app/api/icons?i=seaborn)
+
+### Visualization
+
+- Power BI
+- Microsoft Excel
+
+### Tools
+
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![VSCode](https://skillicons.dev/icons?i=vscode)
+
+---
+
+## 🌟 Featured Project
+
+### 📊 Sales Performance Dashboard
+
+Interactive Power BI dashboard built using the Sample Superstore dataset.
+
+**Highlights**
+
+- Exploratory Data Analysis
+- Dashboard Design
+- KPI Reporting
+- Profitability Analysis
+- Customer Segmentation
+
+➡️ Repository: **https://github.com/timomugishan8-ai/Superstore-Sales-Analytics-Dashboard**
+
+---
+
+## 🗺 Project Roadmap
+
+- ✅ Sales Dashboard
+- 🔄 Customer Churn Prediction
+- 🔄 House Price Prediction
+- 🔄 Credit Risk Classification
+- 🔄 Retail Demand Forecasting
+- 🔄 Movie Recommendation System
+- 🔄 NLP Sentiment Analysis
+- 🔄 AI Business Intelligence Web App
+- 🔄 End-to-End ML Pipeline
+
+---
+
+## 🌍 Leadership & Community
+
+- Tech Lead — Data Science Chapter, Computer Sciences & Engineering Association
+- Code Buddy Mentor
+- Innovation Pitch Participant (AgriSense)
+- GitHub Copilot Dev Days Attendee
+- Career Expo Presenter
+
+---
+
+## 📚 Currently Learning
+
+- Machine Learning
+- Statistical Modeling
+- Feature Engineering
+- Power BI DAX
+- Deep Learning
+
+---
+
+## 📈 GitHub Analytics
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=timomugishan8-ai&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=timomugishan8-ai&theme=github-dark&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timomugishan8-ai&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
+
+---
+
+## ✍ Latest Articles
+
+Coming soon on Medium...
+
+---
+
+## 🤝 Connect With Me
+
+- 📧 Email: **timomugisha.n8@gmail.com**
+- 💼 LinkedIn: **www.linkedin.com/in/timothy-mugisha-39ba2a2b9**
+- 📖 Medium: **https://medium.com/@timomugisha.n8**
+- 🏆 Kaggle: **https://www.kaggle.com/mugishatimo**
+
+---
+
+> **"Turning data into intelligent decisions."**
 
 
