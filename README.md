@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi, I'm Timothy 👋
 
-<!--
-**timomugishan8-ai/timomugishan8-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data Science & Analytics student at Uganda Christian University, building tools for African agriculture and financial inclusion. Currently working through UCU's Recess Programme — labs in networking, cybersecurity, Linux, and software development.
 
-Here are some ideas to get you started:
+### 🔭 Currently working on
+- [Agri-Sense Dome](https://github.com/your-username/agrisense) — a smart agriculture advisory platform for smallholder farmers in Uganda
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ✍️ Writing & links
+- [Medium](https://medium.com/@your-handle)
+- [LinkedIn](https://linkedin.com/in/your-handle)
+
+![Timothy's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Science+Student;Building+for+African+Markets;UCU+Recess+Programme)](https://git.io/typing-svg)
+
+![Python](https://skillicons.dev/icons?i=py,linux,git,github,vscode)
+
+### 📝 Latest posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+
