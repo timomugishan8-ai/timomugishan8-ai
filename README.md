@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Data Science & Analytics** student at **Uganda Christian University** passionate about transforming raw data into meaningful insights.
+I am a **Data Science & Analytics student** at the **Uganda Christian University** focused on building data-driven solutions through analytics, machine learning, and business intelligence. I enjoy working with real-world datasets to uncover insights, build predictive models, and communicate findings through interactive dashboards.
 
 I enjoy building solutions in:
 
@@ -24,7 +24,7 @@ I enjoy building solutions in:
 - 📈 Business Intelligence
 - 🧠 Artificial Intelligence
 
-My goal is to become a Machine Learning Engineer developing intelligent solutions that create measurable impact across Africa.
+Currently I am building toward a career in Machine Learning Engineering by developing strong foundations in analytics, modeling, and software development.
 
 ---
 
@@ -40,6 +40,16 @@ My goal is to become a Machine Learning Engineer developing intelligent solution
 
 ## 🛠 Tech Stack
 
+## 💡 Data Skills
+
+- Data Cleaning & Exploratory Data Analysis
+- Statistical Analysis
+- Data Visualization & Storytelling
+- Predictive Modeling
+- Classification & Regression
+- Dashboard Development
+- Business Intelligence Reporting
+
 ### Languages
 
 ![Python](https://skillicons.dev/icons?i=python)
@@ -54,8 +64,8 @@ My goal is to become a Machine Learning Engineer developing intelligent solution
 
 ### Visualization
 
-- Power BI
-- Microsoft Excel
+- ![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)
+- ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 ### Tools
 
@@ -69,15 +79,23 @@ My goal is to become a Machine Learning Engineer developing intelligent solution
 
 ### 📊 Sales Performance Dashboard
 
-Interactive Power BI dashboard built using the Sample Superstore dataset.
+An end-to-end business intelligence project analyzing sales performance, profitability, customer segments, and regional trends using the Sample Superstore dataset.
 
-**Highlights**
-
+**Workflow**
+- Data cleaning and preparation
 - Exploratory Data Analysis
-- Dashboard Design
-- KPI Reporting
-- Profitability Analysis
-- Customer Segmentation
+- SQL data processing
+- Interactive Power BI dashboard development
+- Business recommendations
+
+**Key Insights**
+- Identified high-performing product categories
+- Analyzed profitability drivers
+- Evaluated customer segment performance
+- Highlighted regional opportunities
+
+Tools:
+Python | Power BI 
 
 ➡️ Repository: **https://github.com/timomugishan8-ai/Superstore-Sales-Analytics-Dashboard**
 
@@ -87,18 +105,16 @@ Interactive Power BI dashboard built using the Sample Superstore dataset.
 
 - ✅ Sales Dashboard
 - 🔄 Customer Churn Prediction
-- 🔄 House Price Prediction
-- 🔄 Credit Risk Classification
-- 🔄 Retail Demand Forecasting
-- 🔄 Movie Recommendation System
-- 🔄 NLP Sentiment Analysis
+- 🔄 Fraud Detection System
+- 🔄 Agriculture Yield Prediction
 - 🔄 AI Business Intelligence Web App
-- 🔄 End-to-End ML Pipeline
+
 
 ---
 
 ## 🌍 Leadership & Community
 
+- Former President at Asifiwe International Academy (2024-2025)
 - Tech Lead — Data Science Chapter, Computer Sciences & Engineering Association
 - Code Buddy Mentor
 - Innovation Pitch Participant (AgriSense)
@@ -107,6 +123,14 @@ Interactive Power BI dashboard built using the Sample Superstore dataset.
 
 ---
 
+## 🏆 Achievements
+
+- 🥇 Recess Program Golden Certificate Recipient
+- ⭐ Academic Honor Roll Recognition
+- 🏅 Character Award Recipient
+
+
+---
 ## 📚 Currently Learning
 
 - Machine Learning
@@ -130,11 +154,6 @@ Interactive Power BI dashboard built using the Sample Superstore dataset.
 
 ---
 
-## ✍ Latest Articles
-
-Coming soon on Medium...
-
----
 
 ## 🤝 Connect With Me
 
