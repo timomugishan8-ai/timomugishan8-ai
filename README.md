@@ -64,7 +64,7 @@ Currently I am building toward a career in Machine Learning Engineering by devel
 
 ### Visualization
 
-- ![Power BI](https://go-skill-icons.vercel.app/api/icons?i=powerbi)
+- ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 - ![Excel](https://go-skill-icons.vercel.app/api/icons?i=excel)
 
 ### Tools
