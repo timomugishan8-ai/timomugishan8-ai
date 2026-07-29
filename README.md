@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="images/banner.png" alt="Timothy Mugisha Banner" width="100%">
+  <img src="Github banner.png" alt="Timothy Mugisha Banner" width="100%">
 </p>
 
 <h1 align="center">Hi, I'm Timothy Mugisha 👋</h1>
@@ -64,8 +64,8 @@ Currently I am building toward a career in Machine Learning Engineering by devel
 
 ### Visualization
 
-- ![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)
-- ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+- ![Power BI](https://go-skill-icons.vercel.app/api/icons?i=powerbi)
+- ![Excel](https://go-skill-icons.vercel.app/api/icons?i=excel)
 
 ### Tools
 
