@@ -38,8 +38,6 @@ Currently I am building toward a career in Machine Learning Engineering by devel
 
 ---
 
-## 🛠 Tech Stack
-
 ## 💡 Data Skills
 
 - Data Cleaning & Exploratory Data Analysis
@@ -49,6 +47,9 @@ Currently I am building toward a career in Machine Learning Engineering by devel
 - Classification & Regression
 - Dashboard Development
 - Business Intelligence Reporting
+
+---
+## 🛠 Tech Stack
 
 ### Languages
 
