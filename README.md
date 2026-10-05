@@ -76,7 +76,7 @@ Currently, I am building toward a career in Machine Learning Engineering by deve
 
 ---
 
-## 🌟 Featured Project
+## 🌟 Featured Projects
 
 ### 📊 Sales Performance Dashboard
 
@@ -96,9 +96,60 @@ An end-to-end business intelligence project analyzing sales performance, profita
 - Highlighted regional opportunities
 
 Tools:
-Python | Power BI 
+Python | Power BI
 
 ➡️ Repository: **https://github.com/timomugishan8-ai/Superstore-Sales-Analytics-Dashboard**
+
+---
+
+### 👥 HR Payroll Management System
+
+A Python-based payroll management system built using Object-Oriented Programming principles to automate weekly salary calculations, overtime pay, tax deductions, and payslip generation.
+
+**Workflow**
+- Designed an Employee class and PayrollSystem class
+- Implemented weekly salary and overtime calculations
+- Applied 1.5× overtime pay after 40 hours
+- Implemented tax deductions
+- Generated employee payslips
+- Added exception handling for invalid operations
+
+**Key Concepts**
+- Encapsulation
+- Classes and objects
+- Constructors and methods
+- Exception handling
+- Object-oriented system design
+
+Tools:
+Python | Object-Oriented Programming
+
+➡️ Repository: **https://github.com/timomugishan8-ai/HR-Payroll-System**
+
+---
+
+### 🌱 Cassava Yield Statistical Analysis
+
+A statistical analysis project investigating relationships between agricultural variables and cassava productivity using R and R Markdown, with emphasis on yield relationships, tillage methods, and fertilizer treatments.
+
+**Workflow**
+- Data inspection and quality assessment
+- Missing-value and duplicate checks
+- Outlier detection and winsorization
+- Exploratory data visualization
+- Statistical hypothesis testing
+- Interpretation and agricultural recommendations
+
+**Key Insights**
+- Total tubers per hectare showed a significant positive relationship with total weight per hectare (Spearman's ρ ≈ 0.649, p < 0.001)
+- No statistically significant yield difference was found between conventional and minimum tillage
+- No significant association was found between tillage method and fertilizer treatment (χ² p = 1.00)
+- Fertilizer treatment was associated with significant differences in total weight per hectare (Kruskal–Wallis p ≈ 0.041)
+
+Tools:
+R | RStudio | R Markdown | tidyverse | ggplot2 | Statistical Testing
+
+➡️ Repository: **https://github.com/timomugishan8-ai/Cassava-yield-statistical-analysis**
 
 ---
 
@@ -167,5 +218,3 @@ Python | Power BI
 ---
 
 > **"Turning data into intelligent decisions."**
-
-
