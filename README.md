@@ -24,7 +24,7 @@ I enjoy building solutions in:
 - 📈 Business Intelligence
 - 🧠 Artificial Intelligence
 
-Currently I am building toward a career in Machine Learning Engineering by developing strong foundations in analytics, modeling, and software development.
+Currently, I am building toward a career in Machine Learning Engineering by developing strong foundations in analytics, modeling, and software development.
 
 ---
 
@@ -32,15 +32,15 @@ Currently I am building toward a career in Machine Learning Engineering by devel
 
 - Building internship-ready Data Science projects
 - Developing interactive Power BI dashboards
-- Preparing for Kaggle competitions
+- Partivcipating in Zindi and Kaggle competitions
 - Strengthening Machine Learning fundamentals
-- Sharing my learning journey through Medium and LinkedIn
+- Sharing my learning journey through LinkedIn
 
 ---
 
 ## 💡 Data Skills
 
-- Data Cleaning & Exploratory Data Analysis
+- Data Cleaning & Exploratory Data Analysis in Python, Excel, and R
 - Statistical Analysis
 - Data Visualization & Storytelling
 - Predictive Modeling
@@ -105,6 +105,8 @@ Python | Power BI
 ## 🗺 Project Roadmap
 
 - ✅ Sales Dashboard
+- ✅ Cassava Yield Analysis
+- ✅ Diamond Pricing Analysis
 - 🔄 Customer Churn Prediction
 - 🔄 Fraud Detection System
 - 🔄 Agriculture Yield Prediction
@@ -118,8 +120,7 @@ Python | Power BI
 - Former President at Asifiwe International Academy (2024-2025)
 - Tech Lead — Data Science Chapter, Computer Sciences & Engineering Association
 - Code Buddy Mentor
-- Innovation Pitch Participant (AgriSense)
-- GitHub Copilot Dev Days Attendee
+- Student intern at the Department of Computing and Technology at UCU
 - Career Expo Presenter
 
 ---
